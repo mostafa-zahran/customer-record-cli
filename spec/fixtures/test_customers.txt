@@ -1,0 +1,10 @@
+{"latitude": "0.0", "user_id": 9, "name": "User 9", "longitude": "0.09"}
+{"latitude": "0.0", "user_id": 10, "name": "User 10", "longitude": "0.1"}
+{"latitude": "0.0", "user_id": 1, "name": "User 1", "longitude": "0.01"}
+{"latitude": "0.0", "user_id": 2, "name": "User 2", "longitude": "0.02"}
+{"latitude": "0.0", "user_id": 4, "name": "User 4", "longitude": "0.04"}
+{"latitude": "0.0", "user_id": 3, "name": "User 3", "longitude": "0.03"}
+{"latitude": "0.0", "user_id": 6, "name": "User 6", "longitude": "0.06"}
+{"latitude": "0.0", "user_id": 7, "name": "User 7", "longitude": "0.07"}
+{"latitude": "0.0", "user_id": 5, "name": "User 5", "longitude": "0.05"}
+{"latitude": "0.0", "user_id": 8, "name": "User 8", "longitude": "0.08"}
